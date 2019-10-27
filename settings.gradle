@@ -1,2 +1,2 @@
-include ':RXJava', ':agendatelefonica', ':AndroidRoomProdutos'
+include ':RXJava', ':agendatelefonica', ':AndroidRoomProdutos', ':mytasks'
 rootProject.name='BancoDeDados'
